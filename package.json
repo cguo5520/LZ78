@@ -1,6 +1,6 @@
 {
   "name": "lz78",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "modified LZ78 compression algorithm. Can be used as a good teaching example",
   "main": "index.js",
   "scripts": {

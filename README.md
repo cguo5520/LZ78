@@ -3,6 +3,8 @@ LZ78 lossless compression algorithm in Node
 
 This is a modified LZ78 implementation that uses 280 to denote the escape char.
 
+This package is available at https://www.npmjs.com/package/lz78
+
 ## Usage
 
 ```
